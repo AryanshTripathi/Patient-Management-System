@@ -1,0 +1,5 @@
+### DELETE request to update patient
+DELETE http://localhost:4004/api/patients/5e915e35-0885-412e-92b2-d531ef64ddf9
+Content-Type: application/json
+
+###
