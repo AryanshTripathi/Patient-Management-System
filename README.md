@@ -1,6 +1,6 @@
 # Patient Management System (PMS)
 
-A scalable, backend-only healthcare management application built using a microservices architecture with Spring Boot and Java. The system handles patient data, appointments, and notifications through decoupled services communicating via Kafka and gRPC.
+A scalable, backend-only healthcare management application built using a microservices architecture with Spring Boot and Java. The system handles patient data, authentication, and notifications through decoupled services communicating via Kafka and gRPC.
 
 ---
 
